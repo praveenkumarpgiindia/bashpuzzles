@@ -1,0 +1,5 @@
+; Ligand position restraints
+#ifdef POSRES_LIG
+#include "posre_lig.itp"
+#endif
+
